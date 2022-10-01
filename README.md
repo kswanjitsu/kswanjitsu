@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Karl Swanson, DO MSc
+- 👋 Hi, I’m Karl Swanson, DO MSc - I am a physician and data scientist
 - 👀 I’m interested in medicine, data science, natural language processing
 - 📫 How to reach me swanson.eric.karl@gmail.com
 
