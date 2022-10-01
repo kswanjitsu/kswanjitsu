@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @kswanjitsu
-- 👀 I’m interested in medicine, data science
-- 🌱 I’m currently learning medicine, data science
-- 💞️ I’m looking to collaborate on stuff
+- 👋 Hi, I’m Karl Swanson
+- 👀 I’m interested in medicine, data science, natural language processing
 - 📫 How to reach me swanson.eric.karl@gmail.com
 
 <!---
